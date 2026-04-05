@@ -7,14 +7,6 @@ It was implemented following [Tanks Tutorial](https://learn.unity.com/project/ta
 ## Images 
 
 
-<p align="center">
- <img  src="Images/tanks.jpg" width="600px" >
- </br>
- <img  src="Images/playing.jpg" width="600px" >
- </br>
- <img  src="Images/winner_annoucement.jpg" width="600px" >
- </br>
-</p>
 
 
 
