@@ -5,41 +5,45 @@
 
 It was implemented following [Tanks Tutorial](https://www.youtube.com/watch?v=paLLfWd2k5A&list=PLclF8feY8EKLw5Un6Z2Syt2_35qsdpnHt) on Unity Learn Platform, it was originally recorded at Unite Boston 2015.
 
-🚀 Features
-🔫 Real-time tank combat with shooting mechanics
-🎮 Smooth and responsive player controls
-🤖 AI-controlled enemy tanks with attack behavior
-💥 Projectile physics with collision effects
-❤️ Health system with damage and destruction mechanics
-🎯 Camera follow system for immersive gameplay
-🔊 Sound effects for shooting, explosions, and movement
-⚡ Optimized performance for smooth gameplay
-🛠️ Getting Started
+## 🚀 Features
+
+- 🔫 Real-time shooting mechanics  
+- 🎮 Smooth tank movement and controls  
+- 🤖 AI enemy tanks with attack behavior  
+- 💥 Projectile physics and collision effects  
+- ❤️ Health and destruction system  
+- 🎯 Camera follow system  
+- 🔊 Sound effects and explosions  
+- ⚡ Optimized gameplay performance  
+
+---
+## 🛠️ Installation & Setup
+
 Clone the repository
 Open the project in Unity (recommended version used in project)
 Ensure all assets (models, audio, materials) are properly loaded
 Click Play and start battling! 🎉
-📋 Requirements
+## 📋 Requirements
 Unity Version: Compatible version (check project settings)
 Platform: Windows (can be extended to other platforms)
 Dependencies
 Unity Standard Assets (if used in project)
 Tank models, materials, and audio files
-🎮 How to Play
+##🎮 How to Play
 🎮 Controls
 W / Up Arrow → Move forward
 S / Down Arrow → Move backward
 A / Left Arrow → Turn left
 D / Right Arrow → Turn right
 Space / Mouse Click → Fire projectile
-🕹️ Gameplay
+## 🕹️ Gameplay
 Control your tank and navigate the battlefield
 Aim and shoot enemy tanks
 Avoid incoming attacks
 Destroy enemies to survive and win
 💀 Game Over
 Game ends when your tank's health reaches zero
-📂 Project Structure
+##📂 Project Structure
 🔧 Scripts
 TankMovement.cs → Handles tank movement and rotation
 TankShooting.cs → Controls firing mechanics and projectiles
@@ -47,19 +51,19 @@ Shell.cs → Projectile behavior and collision handling
 TankHealth.cs → Health system and destruction logic
 GameManager.cs → Game flow and state management
 CameraControl.cs → Camera follow and tracking system
-🎬 Scenes
+##🎬 Scenes
 MainScene → Core gameplay environment
-📦 Assets
+##📦 Assets
 Tank models and materials
 Audio files (shooting, explosions)
 Particle effects for explosions and impacts
-🎯 Game Feel & Optimization
+## 🎯 Game Feel & Optimization
 🎮 Game Feel
 Smooth tank movement with realistic turning physics
 Responsive shooting with satisfying recoil and effects
 Visual feedback through explosions and particle systems
 Audio cues for immersive combat experience
-⚡ Optimization
+##⚡ Optimization
 Efficient physics handling for projectiles
 Optimized collision detection
 Reusable scripts for modular design
