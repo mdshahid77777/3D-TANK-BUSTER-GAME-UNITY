@@ -4,12 +4,6 @@
 
 It was implemented following [Tanks Tutorial](https://learn.unity.com/project/tanks-tutorial) on Unity Learn Platform, it was originally recorded at Unite Boston 2015.
 
-## Images 
-
-
-
-
-
 ## Links
 
 - [Tanks Tutorial](https://learn.unity.com/project/tanks-tutorial), contains video tutorial, instructions, snippet codes.. (The best place to start).
