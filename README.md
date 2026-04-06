@@ -22,7 +22,7 @@ It was implemented following [Tanks Tutorial](https://www.youtube.com/watch?v=pa
 Clone the repository
 Open the project in Unity (recommended version used in project)
 Ensure all assets (models, audio, materials) are properly loaded
-Click Play and start battling! 🎉
+Click Play and start battling! 
 ## 📋 Requirements
 Unity Version: Compatible version (check project settings)
 Platform: Windows (can be extended to other platforms)
